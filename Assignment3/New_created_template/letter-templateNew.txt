@@ -1,0 +1,15 @@
+[[company_name]].
+[[first_name]] [[last_name]]
+[[address]], [[city]],
+[[county]], [[state]], [[zip]]
+
+Hello [[first_name]],
+
+Greetings for the festival season.
+We are reaching out to you to inform that our offices in [[city]] would be closed for Diwali vacation.
+The customer service hotline will be available 24X7.
+We regret for any inconvenience caused.
+We have sent out the festival sweets to your address: [[address]].
+
+Sincerely,
+Insurance Company
